@@ -35,6 +35,8 @@ This project is a finance analysis application designed to provide insightful an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/finance-analysis-app.git
+   git clone [https://github.com/MuhammadbinSalman/Effifinance.AI.git](https://github.com/MuhammadbinSalman/Effifinance.AI)
    cd finance-analysis-app
+   pnpm i
+   pnpm run dev
 
